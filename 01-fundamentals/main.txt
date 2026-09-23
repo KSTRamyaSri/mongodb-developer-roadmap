@@ -1,0 +1,2 @@
+today i understanded the need of mongodb and syntax
+it is document model
